@@ -2,7 +2,7 @@ package api
 
 import (
 	"database/sql"
-	"log"
+	"log"d
 	"net/http"
 
 	"github.com/LIMAMMohamedLimam/ECOM-GO/cmd/service/user"
